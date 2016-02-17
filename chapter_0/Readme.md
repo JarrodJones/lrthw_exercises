@@ -13,8 +13,16 @@ Jarrods-MacBook-Pro-2:mystuff $ ls
 ```
 
 [Array](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html)
+
+
 [Hash](http://www.tutorialspoint.com/ruby/ruby_hashes.htm)
+
+
 [Chronic(RubyGem)](http://chronic.rubyforge.org)
 
+
+
 [Ruby Strings](http://www.tutorialspoint.com/ruby/ruby_strings.htm)
+
+
 [Ruby Blocks](http://www.tutorialspoint.com/ruby/ruby_blocks.htm)
