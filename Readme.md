@@ -1,9 +1,1 @@
-This project is the exercises I did as
-part of reading through Learn Ruby the 
-Hard Way by Zed A. Shaw.
-
-This work was done as a homework assignment
-for the [Davinci Coders](http://www.davincicoders.com/)
-class that I'm taking, titled "Building
-the Toolbelt of a Junior Ruby on Rails 
-Developer" taught by [Jason Noble](http://jasonnoble.org).
+I learned a lot while performing the functions in this chapter.  Ruby is very helpful when it comes to solving math problems. Instead of finding the solution to an equation you can simply type the whole thing into ruby and have it solve it for you. This can be extremely helpful when using Rubys greater than and less than functions. 
