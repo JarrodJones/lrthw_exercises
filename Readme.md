@@ -1,9 +1,3 @@
-This project is the exercises I did as
-part of reading through Learn Ruby the 
-Hard Way by Zed A. Shaw.
+> Can you find a key combo in RubyMine to comment out a line of code? 
 
-This work was done as a homework assignment
-for the [Davinci Coders](http://www.davincicoders.com/)
-class that I'm taking, titled "Building
-the Toolbelt of a Junior Ruby on Rails 
-Developer" taught by [Jason Noble](http://jasonnoble.org).
+I sure can. It looks like there is a key combo in rubymine of ⌘/ which will allow you to begin a comment.
