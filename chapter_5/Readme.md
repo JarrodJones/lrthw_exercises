@@ -33,3 +33,17 @@ puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}."
 ```
 
 > Try to write some variables that convert the inches and pounds to centimeters and kilograms. Do not just type in the measurements. Work out the math in Ruby.
+
+```
+(113796059_chapter_5_master) Jarrod Jones
+Jarrods-MacBook-Pro-2:lib $ ruby ex5.rb
+Let's talk about Jarrod Jones.
+He's 72 inches tall.
+He's 225 pounds heavy.
+Actually that's not too heavy.
+He's got Brown eyes and Black hair.
+His teeth are usually White depending on the coffee.
+If I add 26, 72, and 225 I get 323.
+He's 182 centimeters tall.
+He's 102.27 kilograms.
+```
