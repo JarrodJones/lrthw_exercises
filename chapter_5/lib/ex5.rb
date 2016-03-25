@@ -1,19 +1,27 @@
 #!/usr/bin/env ruby
 
-my_name = "Jarrod Jones"
-my_age = 26
-my_height = 72 # inches
-my_weight = 225 # lbs
-my_teeth = 'White'
-my_hair = 'Black'
-my_eyes = 'Brown'
+name = 'Jarrod Jones'
+age = 26
+height = 72 # inches
+weight = 225 # lbs
+teeth = 'White'
+hair = 'Black'
+eyes = 'Brown'
 
-puts "Let's talk about #{my_name}."
-puts "He's #{my_height} inches tall."
-puts "He's #{my_weight} pounds heavy."
+puts "Let's talk about #{name}."
+puts "He's #{height} inches tall."
+puts "He's #{weight} pounds heavy."
 puts "Actually that's not too heavy."
-puts "He's got #{my_eyes} eyes and #{my_hair} hair."
-puts "his teeth are usually #{my_teeth} depending on the coffee."
+puts "He's got #{eyes} eyes and #{hair} hair."
+puts "His teeth are usually #{teeth} depending on the coffee."
 
 # this line is tricky, try to get it exactly right
-puts "if I add #{my_age}, #{my_height}, and #{my_weight} I get #{my_age + my_height + my_weight}."
+puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}."
+
+# conversions for study drill question 2
+# converting inches to centimeters
+
+puts "He's %d centimeters tall." % [height * 2.54]
+
+# converting pounds to kilograms
+puts "He's %3.2f kilograms." % [weight / 2.2]
