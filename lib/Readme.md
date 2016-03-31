@@ -1,14 +1,13 @@
 ```
-(113796067_chapter_7_master) Jarrod Jones
-Jarrods-MacBook-Pro-2:lib $ ruby ex7.rb
-Mary had a little lamb.
-It's fleece was white as snow.
-And everywhere that Mary went.
-..........
-CheeseBurger
+(113796071_chapter_8_master) Jarrod Jones
+Jarrods-MacBook-Pro-2:lib $ ruby ex8.rb
+1 2 3 4
+one two three four
+true false true false
+%{first} %{second} %{third} %{fourth} %{first} %{second} %{third} %{fourth} %{first} %{second} %{third} %{fourth} %{first} %{second} %{third} %{fourth}
+I had this thing. That you could type up right. But it didn't sing. So I said goodnight.
 ```
 
+> Q) Do you like string interpolation or format strings?  Why?
 
-> Q) Please explain the difference between puts and print in your own words in the Readme.md.
-
-It seems to me from the exercise that "puts" will always start a new line with whatever it is putting, whereas prints just adds to the end of the existing line.
+I don't really think I like the format method because it seems more complicated than string interpolation. This could very well be because I'm more familiar with string interpolation at this point. 
