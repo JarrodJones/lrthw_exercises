@@ -9,5 +9,6 @@ CheeseBurger
 ```
 
 
-Q) Please explain the difference between puts and print in your own words in the Readme.md.
+> Q) Please explain the difference between puts and print in your own words in the Readme.md.
+
 It seems to me from the exercise that "puts" will always start a new line with whatever it is putting, whereas prints just adds to the end of the existing line.
